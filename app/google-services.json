@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345055859850",
+    "project_id": "shoppnigapp-16bd4",
+    "storage_bucket": "shoppnigapp-16bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345055859850:android:0737661286bd7e71cb0973",
+        "android_client_info": {
+          "package_name": "com.example.shoppnigapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGD6eQTaSBf2LNah_Yh52j4J4HYaB14DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
